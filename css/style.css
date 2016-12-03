@@ -1,0 +1,25 @@
+@import url("reset.css");	
+
+body {
+	background-color: #B8E490;
+	font-family: Montserrat, "Helvetica Neue", Helvetica,Arial, sans-serif ;
+}
+
+img {
+	height: 400px;
+    width: 400px;
+}
+
+#bob {
+	color:#4175BD;
+}
+
+.profile{
+	display: inline-block;
+	margin:10px 10px 10px 0px;
+	color:#4175BD;
+}
+
+#stuff{
+	text-align: center; 
+}
